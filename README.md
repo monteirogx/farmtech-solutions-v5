@@ -41,7 +41,7 @@ A terceira é a mais relevante para o cliente: o R² elevado dos modelos é enga
 
 Toda a análise, o código comentado e a discussão dos resultados estão no notebook:
 
-**➡️ [`src/GuilhermeMonteiroBitencourt_rm574151_pbl_fase4.ipynb`](./src/GuilhermeMonteiroBitencourt_rm574151_pbl_fase4.ipynb)**
+**➡️ [`src/GuilhermeMonteiroBitencourt_rm574151_pbl_fase5.ipynb`](./src/GuilhermeMonteiroBitencourt_rm574151_pbl_fase5.ipynb)**
 
 ### Vídeo demonstrativo
 
