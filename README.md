@@ -119,7 +119,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>document</b>: documentos do projeto solicitados pelas atividades. Contém o enunciado da Fase 5.
 
-- <b>src</b>: todo o código fonte criado para o desenvolvimento do projeto. Contém o notebook Jupyter com a análise completa (`GuilhermeMonteiroBitencourt_rm574151_pbl_fase4.ipynb`) e a base de dados utilizada (`crop_yield.csv`).
+- <b>src</b>: todo o código fonte criado para o desenvolvimento do projeto. Contém o notebook Jupyter com a análise completa (`GuilhermeMonteiroBitencourt_rm574151_pbl_fase5.ipynb`) e a base de dados utilizada (`crop_yield.csv`).
 
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
 
@@ -149,7 +149,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 3. **Abra o notebook**:
 
 ```bash
-jupyter notebook src/GuilhermeMonteiroBitencourt_rm574151_pbl_fase4.ipynb
+jupyter notebook src/GuilhermeMonteiroBitencourt_rm574151_pbl_fase5.ipynb
 ```
 
 4. **Execute todas as células** em sequência (menu *Cell → Run All*). O arquivo `crop_yield.csv` deve estar no mesmo diretório do notebook.
