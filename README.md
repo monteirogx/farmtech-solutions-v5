@@ -45,7 +45,7 @@ Toda a análise, o código comentado e a discussão dos resultados estão no not
 
 ### Vídeo demonstrativo
 
-**➡️ [Assistir no YouTube](INSERIR_LINK_AQUI)** *(não listado, até 5 minutos)*
+**➡️ [Assistir no YouTube] https://youtu.be/Vp9s_G78tE4**
 
 ### Desempenho dos modelos
 
