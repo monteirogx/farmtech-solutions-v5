@@ -97,7 +97,7 @@ A região de São Paulo é **71,4% mais cara** que a da Virgínia do Norte para 
 
 ### Vídeo demonstrativo da comparação
 
-**➡️ [Assistir no YouTube](INSERIR_LINK_AQUI)** *(não listado, até 5 minutos)*
+**➡️ [Assistir no YouTube]https://youtu.be/bG3dmxqsPlk** 
 
 ### Justificativa técnica da escolha
 
